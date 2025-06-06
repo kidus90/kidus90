@@ -12,7 +12,9 @@ I'm Kidus Amare, a Full Stack Developer passionate about solving challenging pro
 - I actively participated in hackathons and enjoy working on diverse projects and hobbies.
 - Always looking for opportunities to be challenged and grow as a problem solver.
 
-![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1400">
+<br>
 
 ## 👀 Visitor Badge ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kidus90)
 # 💻 Tech Stack:
