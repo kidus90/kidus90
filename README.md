@@ -1,6 +1,8 @@
 
 ![](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
-# Hi there! 👋
+<h1 align="center">
+  Hi there! 👋 
+</h1>
 
 I'm Kidus Amare, a Full Stack Developer passionate about solving challenging problems and building impactful projects.  
 ## 🌐 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kidusamare90@gmail.com) 
