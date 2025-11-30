@@ -1,38 +1,114 @@
 
-![](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+<!-- Typing Animation -->
 <h1 align="center">
-  Hi there! 👋 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00EFFF&center=true&vCenter=true&width=550&lines=Hi+There%21+I%27m+Kidus+Amare+%F0%9F%91%8B;Full+Stack+Developer;Backend+Developer;Problem+Solver;Fast+Builder+%26+Efficient;Freelancer+%26+Tech+Explorer" />
 </h1>
 
-I'm Kidus Amare, a Full Stack Developer passionate about solving challenging problems and building impactful projects.  
-## 🌐 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kidusamare90@gmail.com) 
-
-## 👨‍💻 About Me
-- Experienced in both frontend and backend development.
-- I actively participated in hackathons and enjoy working on diverse projects and hobbies.
-- Always looking for opportunities to be challenged and grow as a problem solver.
-
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1400">
-<br>
-
-## 👀 Visitor Badge ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kidus90)
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Kidus90&theme=dark&hide_border=false)
-![Kidus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidus90&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kidus90&layout=compact&theme=radical)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kidus90&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <b style="font-size: 18px;">Passionate about building impactful digital experiences — fast, clean, and scalable.</b>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kidus90&limit=5&theme=dark&combine_all_yearly_contributions=true) ![](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
 ---
 
-# Thanks for stopping by! 🚀
+## 🌍 Connect With Me  
+<p align="center">
+  <a href="mailto:Kidusamare90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🚀 About Me  
+
+I'm a **Full Stack Developer** with strong interest in **backend engineering, algorithms, and high-performance systems**.  
+I love solving real problems, building apps fast, and delivering high-quality work for global companies & freelance clients.
+
+### 🔥 My Highlights:
+- 💻 Full-stack Web & Mobile Developer  
+- ⚛️ React & Expo for mobile  
+- 💎 Ruby & backend development lover  
+- ⚡ Fast builder with a performance-first mindset  
+- 🌐 Ready for global remote work & freelancing  
+- 🧩 Strong problem solver with algorithmic thinking  
+
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="60%" />
+</p>
+
+---
+
+# 💻 Tech Stack  
+
+### 🚀 Core Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,expo,ruby,js,ts,python,cpp" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,html,css,figma" />
+</p>
+
+---
+
+### 🛢 Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+</p>
+
+---
+
+### ⚙️ Tools I Use  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,windows" />
+</p>
+
+---
+
+# 🧠 Problem Solving  
+I enjoy breaking down complex problems into simple, efficient solutions — whether it's optimizing backend logic or improving app performance.
+
+
+---
+
+# 📊 GitHub Stats  
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kidus90&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
+---
+
+# 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kidus90&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 😎 Fun Side of Me  
+- 🎵 Lo-fi beats while coding  
+- ⚽ Love football & competitive games  
+- 💡 Always experimenting with new tech  
+- 🤖 Enjoy building small AI tools  
+- 🍕 Pizza + late-night code + Music = perfect combo 🔥  
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="60%" />
+</p>
+
+---
+
+# ✨ Developer Quote  
+<p align="center">
+  <i>"Great developers aren't born — they're built through curiosity, consistency, and refusing to give up."</i>
+</p>
+
+---
+<p align="center">
+<img src="https://camo.githubusercontent.com/671ac10919140ee60a70243fd9e5994bbcb14038e1a1379e872b581d3673d4d8/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6b696475733930"/>
+</p>
+<h2 align="center">🚀 Thanks for stopping by — Let's build something amazing!</h2>
