@@ -49,7 +49,7 @@ I love solving real problems, building apps fast, and delivering high-quality wo
 
 ### 🚀 Core Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo,ruby,js,ts,python,cpp" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react,ruby,js,ts,python,cpp" /><br><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,html,css,figma" />
 </p>
 
